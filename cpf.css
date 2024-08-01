@@ -1,0 +1,52 @@
+body {
+    font-size: 50px;
+    text-align: center;
+    background: linear-gradient(-450deg, #0f2723, #26dac2, rgba(4, 15, 15, 0.907))
+}
+ 
+button {
+    text-align: center;
+    border: 5;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 1rem;
+    color: rgb(252, 252, 252);
+    border-radius: 220px;
+    background-color: rgb(18, 155, 98);
+}
+ 
+label {
+    font-size: 30px;
+    text-align: center;
+}
+ 
+input {
+    border-radius: 60px;
+    padding: 5px;
+    max-width: -90px;
+    max-height: fit-content;
+    width: 300px;
+    border: solid 2px rgb(36, 82, 72);
+}
+ 
+nav#menu a:hover{
+    color:rgb(55, 175, 149);
+    transition: all 0.3s ease;
+}
+ 
+button#botao a:hover{
+    color:rgb(26, 155, 155);
+    transition: all 0.3s ease;
+}
+form{
+    background-color: #70d4cf;
+    max-width: 300px;
+    margin: 0 auto;
+    padding: 70px;
+    border-radius: 10px;
+    box-shadow: 0 0 50px rgb(0, 0, 0);
+    text-align: center;
+}
+p{font-size: 20px;
+
+}
